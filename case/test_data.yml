@@ -1,0 +1,79 @@
+###登录模板
+
+test_login_true:
+#安卓设备，正确的用户名、密码，登录成功
+-
+  - code: qQ123456
+    device_number: 3517033688244
+    device_type: Android
+    mobile: 19842314796
+  - msg: "dev_\u767B\u5F55\u6210\u529F"
+#苹果设备，正确的用户名、密码，登录成功
+-
+  - code: qQ123456
+    device_number: 3517033688244
+    device_type: ios
+    mobile: 19842314796
+  - msg: "dev_\u767B\u5F55\u6210\u529F"
+
+test_login_false:
+#苹果设备，手机号码为空，登录失败
+-
+  - code: qQ123456
+    device_number: 3517033688244
+    device_type: ios
+    mobile:
+  - code: 1
+#苹果设备，密码为空，登录失败
+-
+  - code:
+    device_number: 3517033688244
+    device_type: ios
+    mobile: 19842314796
+  - code: 1
+#设备号为空，正确的账号、密码登录成功
+-
+  - code: qQ123456
+    device_number:
+    device_type: ios
+    mobile: 19842314796
+  - code: 200
+#设备号为空，正确的账号、密码登录成功
+-
+  - code: qQ123456
+    device_number: 3517033688244
+    device_type:
+    mobile: 19842314796
+  - code: 200
+
+
+###个人信息模块
+
+test_info_1:
+#修改性别男，修改成功
+-
+  - key: sex
+    value: 1
+  - msg: dev_success
+#修改性别女，修改成功
+-
+  - key: sex
+    value: 2
+  - msg: dev_success
+#修改个性签名，修改成功
+-
+  - key: sign
+    value: zz\n
+  - msg: dev_success
+
+
+###注册
+test_register_1:
+-
+  - device_type: Android
+    invite_code:
+    device_number: 3517033688244
+    mobile: 14259739812
+    code: 123456
+    password: qQ123466
+  - msg: dev_注册成功
