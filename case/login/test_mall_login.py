@@ -6,7 +6,7 @@ s = requests.Session()
 # yaml_file = os.path.join(os.path.dirname(os.path.realpath(__file__)), "test_data.yml")
 file = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
 yaml_file = file + str(r"\test_data.yml")
-print(f"读取到文件地址：{yaml_file}")
+# print(f"读取到文件地址：{yaml_file}")
 test_data = get_yaml(yaml_file)
 
 

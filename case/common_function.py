@@ -19,4 +19,3 @@ def login(s, user="19842314796", pwd="qQ123456"):
 if __name__ == '__main__':
     s = requests.Session()
     login(s, user="19842314796", pwd="qQ123456")
-

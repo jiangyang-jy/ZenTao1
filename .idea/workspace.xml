@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="600bae56-4630-4a4f-8414-94837d253306" name="Default Changelist" comment="" />
+    <list default="true" id="600bae56-4630-4a4f-8414-94837d253306" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/common_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/common_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/login/test_mall_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/login/test_mall_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/register/del_register.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/register/del_register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/read_yaml.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/read_yaml.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nPIWaC8dgK1w4Ze2qe9k7s7Run" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -17,6 +27,46 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for conftest.test_009">
+    <configuration name="pytest for conftest.test_009" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ZenTao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;conftest.test_009&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_mall_login.Test_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ZenTao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_mall_login.Test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for conftest.test_009" />
+        <item itemvalue="Python tests.pytest for test_mall_login.Test_login" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,10 +82,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="642" y="531" key="Github.ShareDialog" timestamp="1611298645134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="531" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611298645134" />
+    <state x="666" y="262" key="Github.UntrackedFilesDialog" timestamp="1611298662299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="262" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611298662299" />
+    <state width="1502" height="250" key="GridCell.Tab.0.bottom" timestamp="1611625779149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1502" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611625779149" />
+    <state width="1502" height="250" key="GridCell.Tab.0.center" timestamp="1611625779149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1502" height="250" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611625779149" />
+    <state width="1502" height="250" key="GridCell.Tab.0.left" timestamp="1611625779149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1502" height="250" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611625779149" />
+    <state width="1502" height="250" key="GridCell.Tab.0.right" timestamp="1611625779149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1502" height="250" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611625779149" />
     <state x="345" y="156" width="998" height="782" key="SettingsEditor" timestamp="1611287229062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="345" y="156" width="998" height="782" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611287229062" />
+    <state x="780" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1611625791599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="780" y="241" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611625791599" />
     <state x="752" y="383" key="svn.repositoryBrowser" timestamp="1611286256000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
