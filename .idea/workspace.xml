@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="600bae56-4630-4a4f-8414-94837d253306" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/common_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/common_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/login/test_mall_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/login/test_mall_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/register/del_register.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/register/del_register.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/read_yaml.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/read_yaml.py" afterDir="false" />
-    </list>
+    <list default="true" id="600bae56-4630-4a4f-8414-94837d253306" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jiang" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nPIWaC8dgK1w4Ze2qe9k7s7Run" />
@@ -79,9 +78,29 @@
       <option name="presentableId" value="Default" />
       <updated>1611285332052</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1611628398597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611628398597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="558" y="83" key="CommitChangelistDialog2" timestamp="1611628397033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="83" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611628397033" />
+    <state x="184" y="84" key="DiffContextDialog" timestamp="1611628257771">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="84" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611628257771" />
     <state x="642" y="531" key="Github.ShareDialog" timestamp="1611298645134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
