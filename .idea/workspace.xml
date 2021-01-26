@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="600bae56-4630-4a4f-8414-94837d253306" name="Default Changelist" comment="" />
+    <list default="true" id="600bae56-4630-4a4f-8414-94837d253306" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +13,15 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="yang" />
         <option value="jiang" />
       </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -85,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611628398597</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1611628607287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611628607287</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -93,18 +110,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="558" y="83" key="CommitChangelistDialog2" timestamp="1611628397033">
+    <state x="706" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611628572977">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="83" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611628397033" />
+    <state x="706" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611628572977" />
+    <state x="558" y="83" key="CommitChangelistDialog2" timestamp="1611628606550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="83" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611628606550" />
     <state x="184" y="84" key="DiffContextDialog" timestamp="1611628257771">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="84" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611628257771" />
-    <state x="642" y="531" key="Github.ShareDialog" timestamp="1611298645134">
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1611631367836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="642" y="531" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611298645134" />
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611631367836" />
+    <state x="642" y="531" key="Github.ShareDialog" timestamp="1611631457859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="531" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611631457859" />
     <state x="666" y="262" key="Github.UntrackedFilesDialog" timestamp="1611298662299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -129,6 +154,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="345" y="156" width="998" height="782" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611287229062" />
+    <state x="855" y="398" key="Vcs.Push.Dialog.v2" timestamp="1611630731038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="855" y="398" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611630731038" />
     <state x="780" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1611625791599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
