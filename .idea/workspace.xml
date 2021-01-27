@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="600bae56-4630-4a4f-8414-94837d253306" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -26,7 +33,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nPIWaC8dgK1w4Ze2qe9k7s7Run" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,7 +46,49 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest for conftest.test_009">
+  <component name="RunManager" selected="Python tests.pytest for test_mall_info.TestInfo">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ZenTao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ZenTao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for conftest.test_009" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="ZenTao" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -51,6 +102,22 @@
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;conftest.test_009&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_mall_info.TestInfo" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ZenTao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/info" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_mall_info.TestInfo&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -72,8 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for conftest.test_009" />
+        <item itemvalue="Python tests.pytest for test_mall_info.TestInfo" />
+        <item itemvalue="Python.demos" />
         <item itemvalue="Python tests.pytest for test_mall_login.Test_login" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python tests.pytest for conftest.test_009" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611628607287</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1611631580339</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611631580339</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1611631653442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611631653442</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -114,10 +198,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="706" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611628572977" />
-    <state x="558" y="83" key="CommitChangelistDialog2" timestamp="1611628606550">
+    <state x="558" y="83" key="CommitChangelistDialog2" timestamp="1611631652728">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="83" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611628606550" />
+    <state x="558" y="83" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611631652728" />
     <state x="184" y="84" key="DiffContextDialog" timestamp="1611628257771">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -134,30 +218,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="666" y="262" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611298662299" />
-    <state width="1502" height="250" key="GridCell.Tab.0.bottom" timestamp="1611625779149">
+    <state width="1502" height="284" key="GridCell.Tab.0.bottom" timestamp="1611654496038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1502" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611625779149" />
-    <state width="1502" height="250" key="GridCell.Tab.0.center" timestamp="1611625779149">
+    <state width="1502" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611654496038" />
+    <state width="1502" height="284" key="GridCell.Tab.0.center" timestamp="1611654496038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1502" height="250" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611625779149" />
-    <state width="1502" height="250" key="GridCell.Tab.0.left" timestamp="1611625779149">
+    <state width="1502" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611654496038" />
+    <state width="1502" height="284" key="GridCell.Tab.0.left" timestamp="1611654496038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1502" height="250" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611625779149" />
-    <state width="1502" height="250" key="GridCell.Tab.0.right" timestamp="1611625779149">
+    <state width="1502" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611654496038" />
+    <state width="1502" height="284" key="GridCell.Tab.0.right" timestamp="1611654496038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1502" height="250" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611625779149" />
+    <state width="1502" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611654496038" />
     <state x="345" y="156" width="998" height="782" key="SettingsEditor" timestamp="1611287229062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="345" y="156" width="998" height="782" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611287229062" />
-    <state x="855" y="398" key="Vcs.Push.Dialog.v2" timestamp="1611630731038">
+    <state x="855" y="398" key="Vcs.Push.Dialog.v2" timestamp="1611631663134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="855" y="398" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611630731038" />
+    <state x="855" y="398" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611631663134" />
     <state x="780" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1611625791599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
